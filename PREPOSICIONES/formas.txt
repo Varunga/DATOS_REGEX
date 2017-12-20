@@ -1,0 +1,431 @@
+﻿
+CONSTRUCCIÓN: adv : Variantes: 11 Observaciones: 81
+ (u'abajo', 20)
+Como puedes ver, el tapete está allí quemado, los muros derruidos, el techo se ha venido abajo.
+ (u'alrededor', 15)
+Me contó cómo recorría los callejones muerto de frío, entre olor a basura, a la salida del metro Insurgentes; con las patrullas dando vueltas alrededor, siempre a punto de encontrarlo.
+ (u'adelante', 14)
+Rodeó su escritorio y caminó adelante, para mostrarle el camino.
+ (u'adentro', 5)
+no es sobre, sino lo que se mete adentro... 
+ (u'encima', 5)
+Tú por andar distraída con tu papá ni cuenta te has dado del problemón que se te viene encima.
+ (u'delante', 5)
+para arar el campo los bueyes son los que van delante.
+ (u'atr\xe1s', 5)
+Al llegar atrás, en el patio, dudé por un instante.
+ (u'detr\xe1s', 4)
+Usted, en el momento de los disparos, iba detrás y a la izquierda de Colosio,
+ (u'enfrente', 4)
+no veía nada por más cosas que le pasaran enfrente.
+ (u'arriba', 3)
+Llegó arriba (-ciento trece gradas-, apunta), y encontró frente a la entrada una manta de cáñamo, de muchos dobleces, en la cual había numerosos cascabeles
+ (u'debajo', 1)
+De fábula lo vi robándose una cobija vieja, de sus cobijillas que ya no sir de su ven cómo te diré... de esas ya re viejas, desteñidas y agujereadas. Se la metió debajo
+
+CONSTRUCCIÓN: adv_pp : Variantes: 9 Observaciones: 54
+ (u'delante de', 16)
+Pasa delante de ellos un joven 
+ (u'detr\xe1s de', 11)
+Un camión civil que viajaba detrás de la patrulla militar quedó atrapado
+ (u'alrededor de', 6)
+Como de costumbre, me puse a revolotear alrededor de él, lo seguí del comedor a la cocina y de ahí al patio donde tirábamos la basura
+ (u'debajo de', 6)
+tiré el mollejón debajo de la mesa. 
+ (u'adelante de', 5)
+Seguramente adelante de mí avanzan frustrados los tres jipísimos 
+ (u'abajo de', 4)
+De una de las tablas, abajo de una blusa y ropa interior mal acomodada, tomó unas hojas de papel
+ (u'encima de', 3)
+Paso mis manos encima de ella
+ (u'atr\xe1s de', 2)
+Julio Pot se metió atrás de la palapa mayor 
+ (u'enfrente de', 1)
+Y fui a caer enfrente de la abuela.
+
+CONSTRUCCIÓN: pp_pp_pp : Variantes: 3 Observaciones: 5
+ (u'de por entre', 3)
+¡Monseñor, salid de por entre las patas del piano...!
+ (u'de por bajo', 1)
+Asoma de por bajo el paraguas a la busca de consolación, y para consolarse de nalgas va y siéntase piadosamente rápido en un sillón
+ (u'por tras de', 1)
+mas yo vos lo juro que yo me vengara, que desque en su pancho calcado me viera, treynta resgaños y mas le hiziera, que tripas & bofes muy bien le arañara. Mas hora me quiero priado esconder por tras delas matas, y bien escondido, por si otra vegada ños fuere venido, que nunca me halle ni me pueda ver
+
+CONSTRUCCIÓN: pp_pp_adv : Variantes: 1 Observaciones: 1
+ (u'de por aqu\xed', 1)
+Me dio muina verlos como queleles sobre ella y te traigo la razón para que los corras de por aquí y no dejes que estén dando ese espectáculo.
+
+CONSTRUCCIÓN: pp_adv : Variantes: 23 Observaciones: 67
+ (u'por delante', 12)
+Nacha caminaba por delante entre padre e hijo.
+ (u'hacia atr\xe1s', 7)
+estiró y relajó su cuerpo echándose hacia atrás sobre el respaldo del sillón.
+ (u'para atr\xe1s', 7)
+-Además de puta, pendeja. ¿Por dónde crees que la vida se va para tras?-
+ (u'por detr\xe1s', 5)
+Todo el mundo te dice que sí, pero por detrás te viene la puñalada. 
+ (u'hacia adelante', 5)
+El presidente de la Comisión Europea, Jacques Santer, afirmó ayer en Bruselas que espera -presión hacia adelante de manera urgente- con las propuestas contra legislación, las cuales desea que sean adoptadas pronto por el Consejo.
+ (u'hacia arriba', 3)
+Liut hizo un último esfuerzo y se impulsó hacia arriba con un grito de batalla, 
+ (u'para adentro', 3)
+-¿Y no la seguiste?- volvió a interrumpir Carlos Tepeaca. -Hasta que se fue para adentro
+ (u'de encima', 3)
+La sangre en la cabeza no deja de hostigarme justo cuando siento que me jalan y entre varios me quitan de encima pues jamás hubiese tenido voluntad para dejarla.
+ (u'hacia delante', 3)
+no sabía si daba el primer paso hacia delante o si tomaba a Delia de la cintura.
+ (u'de enfrente', 2)
+El marido gritaba que le quitaran de enfrente a esa mujer (su esposa) o la mataba,
+ (u'hacia abajo', 2)
+el agua de lluvia se escurría hacia abajo y mojaba los papeles 
+ (u'para adelante', 2)
+esos en los que sientes que como buey jalas para adelante con una cierta pesadumbre
+ (u'hasta adelante', 2)
+-Si en la gran premier me voy hasta adelante y no te hablo no te me vayas a sentir,
+ (u'hacia adentro', 2)
+Va hacia adentro. Al fondo del establecimiento, 
+ (u'de adentro', 1)
+lleno de una extraña oscuridad que me venía de adentro, abrí los ajos,
+ (u'por atr\xe1s', 1)
+el ataque también podría llegar por atrás,
+ (u'por debajo', 1)
+Entonces él, de costado, entraba por debajo y se insertaba de tal modo que el acto se consumaba a la vista de ambos
+ (u'por encima', 1)
+le echó un chal de lana por encima.
+ (u'hasta adentro', 1)
+Aquello le llegó hasta adentro.
+ (u'por adentro', 1)
+Se movió al medio de la pista y yo avancé por adentro.
+ (u'para delante', 1)
+No reculemos nuevamente: vamos para delante, con todo.
+ (u'hasta arriba', 1)
+tuve que cantar en Machu Picchu hace una semana en los 100 años del descubrimiento científico de Machu Picchu y tuve que subir dos veces hasta arriba en el ensayo y me lesioné
+ (u'de abajo', 1)
+Oyes ruidos provenientes de abajo.
+
+CONSTRUCCIÓN: pp_FN_pp_adv_pp : Variantes: 10 Observaciones: 15
+ (u'a FN de atr\xe1s de', 3)
+Cruzaron un garaje con dos autos como carrozas funerarias y fueron a la parte de atrás de la casa.
+ (u'en FN de atr\xe1s de', 3)
+Frecuentemente se clavan peines de plástico en la parte de atrás del pelo y flores frescas.
+ (u'por FN de atr\xe1s de', 2)
+Creí ver a un hombre arrastrarse por la parte de atrás de la capilla.
+ (u'hasta FN de atr\xe1s de', 1)
+Durante las tardes, cuando todo mundo dormía la siesta, se metía a escondidas hasta la parte de atrás de la casa de paja de Pech y se ocultaba tras el árbol.
+ (u'por FN de arriba de', 1)
+Coloque un trapo abajo y rocíe aceite de bicicleta en la junta de la rueda libre, de manera que entre por la parte de arriba de la junta y salga por la de abajo.
+ (u'de FN de arriba de', 1)
+Para las primeras pruebas necesita arrancar uno de sus cabellos, preferentemente de la parte de arriba de su cabeza.
+ (u'a FN por debajo de', 1)
+Balderas escuchó en el teléfono a la mujer, nerviosa, pero diciendo con las pocas palabras que alcanzó a articular un mensaje que iba a bastantes metros por debajo del agua.
+ (u'hacia FN de atr\xe1s de', 1)
+Genaro siguió a Eusebio hacia la parte de atrás de la casa, treparon una escalerilla y se parapetaron tras las almenas en la parte de arriba.
+ (u'sobre FN de atr\xe1s de', 1)
+La tarde caía así sobre la calle de atrás del edificio donde los bulldozers tiraban las palmeras para construir una ancha avenida.
+ (u'de FN de atr\xe1s de', 1)
+Tomo la mochila de la parte de atrás del coche. Saco mi libro de historia y busco la carta de mi hermana.
+
+CONSTRUCCIÓN: pp_pp : Variantes: 34 Observaciones: 560
+ (u'de entre', 184)
+Por fin extrae de entre la tierra una perdiz viva 
+ (u'por entre', 183)
+& teniendo la oreia diestra con la mano siniestra. & deue passar el braço diestro por entre el pescueço & el braço siniestro. & eche quoanto mas podiere echar esta segur como dicho es de suso.
+ (u'por sobre', 62)
+& si las gayllinas passan por sobre aqueill secto & fazen daynno.
+ (u'de sobre', 29)
+Pues en la ocasión anterior obtuvo algunas provisiones de las que los indios recogieron de sobre las rocas y al comerlas había experimentado un notable alivio en los males que lo tenían postrado.
+ (u'de bajo', 22)
+despertando el marido salio de baxo la cama: & hallo su mujer que dormia.
+ (u'de tras', 11)
+los griegos muy bien entre sus tiendas, mas cuytaualos tan fuerte el sagitario de cada parte, que apenas osauan salir de tras las tiendas e non podian auer defendimiento ninguno contra la su arma.
+ (u'por ante', 8)
+E el yelmo colgaua del, partido por tres partes por la cabeça, e corriale la sangre otrosy por todas partes. E commo le caya la sangre por ante los ojos, non podia ver, 
+ (u'de so', 8)
+& el conde don Garçia ferrandes sallio de so la cama & vio commo estauan dormjendo
+ (u'por bajo', 5)
+y en los nuestros solamente se reçibio de daño vn caballo que los yndios mataron a  Martin de Rojas con vn dardo que le atravesaron por baxo las faldas del proprio caballo
+ (u'de ante', 4)
+que se lle osase allegar, asy los cortaua con la espada a los vnos piernas, a los otros braços, a los otros cabeças. E desque fazia a los vnos foyr de ante sy, tornaua a los otros muy apriesa, e asi le dexauan todos el canpo. 
+ (u'para ante', 4)
+e el, puesto en gran nesçesidad, fuele neçesario yrse para ante el rrey don Fernando e para ante la rreina doña Berenguella, su madre, en cuya presençia su causa fue luengamente tratada,
+ (u'de contra', 4)
+E falló a sus servientes dormiendo e vio venir de contra el castillo de Camalote un cavallero armado e fazía el mayor duelo del mundo:
+ (u'hacia en', 4)
+Mandó remar el Almirante las barcas hacia en derecho de donde estaba; y, llegando cerca de tierra, vieron unos indios que venían a la orilla de la mar; 
+ (u'a entre', 3)
+Y traerlaas a entre tu casa
+ (u'por tras', 3)
+Mas quando lo vió Millon llegar, por miedo que ovo de lo descobrir, sacó la espada de la bayna e fué por tras Esmeré, su hermano, e dexóse correr a Agravayn por lo ferir. Mas quando Agravayn vió venir la espada sobre sy, erguyó el braço con el mantón enbuelto, e Millon le dió tal espadada enél quele cortó ya quantos doblezes, ca lo non alcançó a derecho.
+ (u'hasta en', 2)
+Llega esta sierra con la Vega hasta en el puerto de la Navidad, junto a la mar, donde la Vega se acaba 
+ (u'por so', 2)
+passando Gandalín por so las finiestras donde estava la Reina y otras muchas mugeres, la Reina lo llamó y lançóle la espada del Rey,
+ (u'a so', 2)
+el dicho sennor rey, nuestro sennor, el dicho ora e dia, salio de la dicha yglesia a so el arbol del Guernica, que esta junto con la dicha yglesia; su alteza se asento en vna silla de piedra que esta so el dicho arbol
+ (u'para en', 2)
+Et desque la mala beguina la vio estar triste, fuesse para en el logar pora do su marido avía de venir.
+ (u'desde entre', 2)
+Entretanto nuestros arcabuzeros matauan muchos de los enemigos tirandoles de manpuesto desde entre los arboles: 
+ (u'para entre', 2)
+E después que Tristán se partió del juego e Belisenda lo vio ir, fuese para entre dos cámaras, a un lugar escuro. E Tristán pasava por aquel lugar, e la donzella, cuando lo vio, fuese para él e echóle los braços al cuello,
+ (u'hasta sobre', 2)
+despues tomarás el Cubilete con la mano derecha, y lo harás pasar sobre la mano izquierda, como si arrastrases una bolita hasta sobre la mesa.
+ (u'por contra', 1)
+E obligamos a nos & nostras bonas de uos sanar esta nostra uendiçion a todo tiempo de quien quier que uos demande. Se dalguien uinier por contra esta carta desta nostra uendiçion passar
+ (u'desde so', 1)
+quando los milites o guerreros: estando ende les çenturiones eran constriñidos lançar palos agudos enel vallado desde so la manta que es pertrecho.  
+ (u'a en', 1)
+Con este concierto se bolvieron a en casa a comer, dando de parte del Gran Archipámpano un recado a don Quixote
+ (u'a contra', 1)
+por eso la impresión de que su deporte navega a contra corriente
+ (u'para tras', 1)
+de parte arriba, tierra del monesterio, e de la parte de vaxo, tierra de herederos de Pero Gonsales Rosel, que es del dicho monesterio, e de la otra parte, camino que va para tras sierra.
+ (u'por en', 1)
+Canción, si acaso vas a pasearte al Prado o a otra parte, pásate por en cas de un alojero, y dile que me muero.
+ (u'hasta so', 1)
+e corrieron los de Villa a estos de Garaiçával fasta so las casas de Someano e Sancho
+ (u'a sobre', 1)
+& tomara el sacerdote dela sangre del sacrifiçio perdonante error & ponerlo a sobre el frontal dela casa & alos quatro rrincones dela sala ala ara & sobre el frontal dela puerta dela sala de dentro & asi faras en siete dias del mes 
+ (u'hasta ante', 1)
+Ista altercatio fuit fasta ante rege domno Adefonso, qui regebat Castella et Legione et tota Gallecia...
+ (u'hasta por', 1)
+Mi Poncho se tiene que ir hasta por allaaaá..., por los llanos donde juegan la pelota... a espiar cuando salen los trabajadores de las fábricas... Y nomás se descuida tantito y lo agarran los de las camionetas.
+ (u'para so', 1)
+Dias de Villamar e segund que cae derecho para el dicho rio, para so el molino, por el riego que fazen para la agua de la fronte de la dicha tierra de vos 
+ (u'hasta bajo', 1)
+Al ver llegar a su marido, arrastróse hasta bajo el lecho y atizó y sopló las brasas que lo calentarían, y cuyo rescoldo había estado velando para mantenerlo vivo, deseosa de hacerle sentir como antes el halago inefable de su devoción.
+
+CONSTRUCCIÓN: pp_pp_adv_pp : Variantes: 3 Observaciones: 3
+ (u'hasta por encima de', 1)
+-Llenad al hombre con todas las bendiciones de la tierra; hundidle hasta por encima de la cabeza en un mar de felicidad de manera que sólo las burbujas floten en la superficie;
+ (u'desde por encima de', 1)
+Fidel se ocupó de tirarla desde por encima de la cabeza como buen escanciador
+ (u'hasta por debajo de', 1)
+Creía que no iba a descubrir nada nuevo, porque había rastreado a los flamencos que fueron a México hasta por debajo de los lienzos originales, para ver si no ocultaban todavía el contrabando que hubo.
+
+CONSTRUCCIÓN: pp_adv_pp : Variantes: 42 Observaciones: 835
+ (u'por encima de', 330)
+De nada servirá que el médico imponga dietas, restricciones alimenticias y ejercicios si su conducta se opone a las pautas impresas por la madre; el paciente una y otra vez pasará por encima de sus prescripciones, dado que seguirlas implica básica y sustancialmente perder el aprecio de la madre,
+ (u'por debajo de', 180)
+Se va corriendo junto a la pared, olfatea mi maleta y sale precipitado el ratón por debajo de la puerta.
+ (u'por detr\xe1s de', 47)
+El alguacil empujado llega por detrás de Cruz y le da una golpe con la culata. Cruz cae al suelo.
+ (u'por delante de', 43)
+La traquearteria, o simplemente tráquea, está constituida por un tubo de aproximadamente doce centímetros de largo, que desciende verticalmente a lo largo del cuello, por delante del esófago, para penetrar en seguida en el pecho, donde después de un breve trayecto se bifurca en dos conductos llamados bronquios,
+ (u'desde fuera de', 29)
+Y fue Australia el que anotó, cuando Kewell encontró un agujero en la defensa uruguaya y marcó con un tiro desde fuera del área.
+ (u'de abajo de', 21)
+Me tomó de la mano, se habían ido las bolsas de abajo de sus ojos y había en su expresión como una serenidad escueta, sin poses ni adornos, en parte porque no se había pintado los labios y apenas había subrayado con el rímel la forma de sus ojos.
+ (u'por arriba de', 20)
+Realizar la acción de bombeo con la perilla, e insuflar rápidamente el brazalete hasta que el mercurio se eleve 20 o 30 mm Hg por arriba del nivel en que la pulsación de la arteria ya no se escuche.
+ (u'de atr\xe1s de', 17)
+¡Sorpráis! grita Güili cuando saca de atrás del asiento la calaca del esqueleto de Henri, ahora ausente.
+ (u'a cerca de', 15)
+En 1968 sus moradores ascendían ya a cerca de un millón.
+ (u'por en medio de', 14)
+El porter levantó el asiento de cuero por en medio de la silla y el asunto quedó solucionado. Él mismo la llevó a la alcoba. La acomodó y en esta ocasión mi abuelo se sostuvo del brazo derecho del porter para poder sentarse.
+ (u'por atr\xe1s de', 12)
+Pase una puntada corta por atrás de la tela, sujetando la hebra debajo de la aguja cuando ésta salga, para que forme el lazo.
+ (u'por abajo de', 11)
+No sabía cómo acariciarla para calentarla mejor, no sabía por dónde empezar: si ponía las dos manos sobre aquellos hombros desnudos o las metía por abajo de la falda.
+ (u'por enfrente de', 11)
+El Periodista ha entrado, cruza por enfrente del Policía con cuidado. Abre la puerta del cuarto y la cierra tras de sí, ha quedado en penumbra.
+ (u'de fuera de', 11)
+Un último intento para salir, pero de fuera de escena le avientan, con la fuerza de una orden, el saco de Arturo.
+ (u'hacia atr\xe1s de', 9)
+Raposo se sube en el burro y con las dos manos tira hacia atrás de las quijadas.
+ (u'por dentro de', 7)
+El pantalón de manta blanca, cruzado por delante, se ata con un cordón que pasa por dentro de una jareta en la cintura y llega solamente hasta las rodillas.
+ (u'de cerca de', 7)
+En un frasco de penicilina coloque el agua recién hervida e introduzca en él un fragmento de papel con esporas de Pleurotus ostreatus de  cerca de la flama.
+ (u'por fuera de', 6)
+Usan un soyate para sostener la falda, cosido a una faja de lana roja con diseño central en el tejido, que se enrolla por fuera del huipil.
+ (u'hacia abajo de', 5)
+Desviaremos un riel allá adelante -dijo señalando en dirección de la vía y entre la oscuridad-, y es necesario que gente de ustedes se vaya un kilómetro hacia abajo de la cuesta, donde hay un montón de durmientes.
+ (u'hacia fuera de', 4)
+La conciencia se le apagó al ver la figura de una mujer que en ese momento salió corriendo hacia fuera de la casona.
+ (u'hacia arriba de', 4)
+Al chocar dos masas de aire de diferente temperatura, la caliente, por ser de menor densidad, se desplaza hacia arriba de la masa fría; esta es una inversión frontal
+ (u'hasta cerca de', 4)
+Algunos se contentaban con cubrirse la parte anterior con un lienzo cuadrado que se ataban a la cintura en forma de delantal y les llegaba hasta cerca de las rodillas».
+ (u'hasta debajo de', 3)
+visten las autoridades una larga capa azul oscura con listones amarillos y blancos ribeteando el borde, y encima de ésta una tela cuadrangular colocada en la espalda, doblada en triángulo, que llega hasta debajo de la cintura,
+ (u'de dentro de', 2)
+-proporcionan el único receptáculo capaz de absorber esa raza cuandoquiera que estemos preparados para expulsarla, para emanciparla de la esclavitud y, para removerla de dentro de nuestra raza-. Manifiesto rotundo de la  
+ (u'desde atr\xe1s de', 2)
+el Huérfano Huerta brincó desde atrás de un sillón de terciopelo verde donde se hallaba agazapado y con furia inaudita repitió el nombre, López, López,
+ (u'de enfrente de', 2)
+estaba moribunda la esposa del señor cura, y aguantó más allá de la muerte del Cleofás, hasta lo levantaron de enfrente de la carpintería, y tuvieron tiempo de enterrarlo, porque ella no acataba a la muerte,
+ (u'por afuera de', 2)
+Por afuera del perímetro de la construcción, frente a cada hilo, con una separación de metro y medio, entre sí, se encajan un poste ligeramente al lado derecho y otro ligeramente al lado izquierdo.
+ (u'hasta arriba de', 2)
+Me salía corriendo y me subía hasta arriba de la barda a comer.
+ (u'hacia afuera de', 2)
+Cuando la ventilación ocurre, el aire puede moverse hacia adentro y hacia afuera de cada espiráculo, pero generalmente entra a través de los espiráculos anteriores y sale por los posteriores.
+ (u'a arriba de', 1)
+Hay países o regiones cuyas fugas por todos estos conceptos ascienden a arriba del cincuenta por ciento de sus ingresos.
+ (u'desde afuera de', 1)
+Bueno, estoy agradecido que haya comunicaciones que vienen desde afuera de nuestro país.
+ (u'de debajo de', 1)
+-en México se publicaron traducciones al por mayor en diversos suplementos culturales, y salieron expertos en Heaney de debajo de las piedras. De repente muchas personas lo traducían aunque lo habían conocido esa tarde.-
+ (u'hasta abajo de', 1)
+En esa espléndida desnudez, velada apenas por su pelo destrenzado que le caía en serpentinas alrededor, hasta abajo de las asentaderas.
+ (u'para abajo de', 1)
+la camioneta comienza a dar vueltas, como las tazas giratorias de una feria, y se va para abajo de camino.
+ (u'para atr\xe1s de', 1)
+Un día de arena fue suficiente para convencerlos de la inutilidad de la persecución de los cangrejos -van para atrás de todos modos- e impulsarlos a organizar paseos en coche,
+ (u'de adentro de', 1)
+da detrás, nada más adentro. Sí: otro hombre sale de adentro de él pero el cuerpo resiste y la mente re 
+ (u'por adentro de', 1)
+Las lunas menores se trasladan por adentro de la órbita de Miranda.
+ (u'hacia adentro de', 1)
+Siento su mano moviendo mi pene hacia abajo y hacia adentro de ella.
+ (u'desde arriba de', 1)
+a fin de que el inaugurador pudiera leer la orden del día, venida como siempre y por teléfono directo desde arriba de los pinos en donde el presidente, con las crines de la República en la mano, despepita sus mandatos trompetario
+ (u'por cerca de', 1)
+Cuando estaba formada la figura, la emplumaban y le hacían en la cara un embijamiento, es decir, rayas que atravesaban su rostro por cerca de los ojos.
+ (u'de arriba de', 1)
+Las limitantes que se tienen para utilizar este método son los daños por frío, que son alteraciones fisiológicas en los frutos cuando se almacenan a temperaturas de refrigeración y que van de arriba del punto de congelación del producto a 2.5ºC.
+ (u'de encima de', 1)
+Al recoger los suéteres de encima de la cama, vio el periódico doblado, con su foto. 
+
+Observaciones totales: 1621 
+CONSTRUCCIONES TOTALES: 9 
+LISTADO DE CONSTRUCCIONES: [u'adv', u'adv_pp', u'pp_pp_pp', u'pp_pp_adv', u'pp_adv', u'pp_FN_pp_adv_pp', u'pp_pp', u'pp_pp_adv_pp', u'pp_adv_pp']
+ESTE PROGRAMITA DA TOTALES PARA CADA FORMA
+por encima de= 330
+de entre= 184
+por entre= 183
+por debajo de= 180
+por sobre= 62
+por detrás de= 47
+por delante de= 43
+de sobre= 29
+desde fuera de= 29
+de bajo= 22
+de abajo de= 21
+por arriba de= 20
+abajo= 20
+de atrás de= 17
+delante de= 16
+alrededor= 15
+a cerca de= 15
+por en medio de= 14
+adelante= 14
+por atrás de= 12
+por delante= 12
+de fuera de= 11
+por enfrente de= 11
+de tras= 11
+por abajo de= 11
+detrás de= 11
+hacia atrás de= 9
+de so= 8
+por ante= 8
+hacia atrás= 7
+por dentro de= 7
+para atrás= 7
+de cerca de= 7
+debajo de= 6
+alrededor de= 6
+por fuera de= 6
+por bajo= 5
+hacia adelante= 5
+encima= 5
+adelante de= 5
+hacia abajo de= 5
+por detrás= 5
+atrás= 5
+delante= 5
+adentro= 5
+de ante= 4
+hasta cerca de= 4
+hacia fuera de= 4
+de contra= 4
+abajo de= 4
+enfrente= 4
+para ante= 4
+detrás= 4
+hacia en= 4
+hacia arriba de= 4
+a entre= 3
+arriba= 3
+en FN de atrás de= 3
+de por entre= 3
+encima de= 3
+por tras= 3
+a FN de atrás de= 3
+hacia arriba= 3
+para adentro= 3
+de encima= 3
+hasta debajo de= 3
+hacia delante= 3
+para en= 2
+hasta arriba de= 2
+hasta adelante= 2
+de enfrente de= 2
+hacia afuera de= 2
+por so= 2
+de enfrente= 2
+por afuera de= 2
+por FN de atrás de= 2
+hacia adentro= 2
+para adelante= 2
+para entre= 2
+hasta en= 2
+desde entre= 2
+de dentro de= 2
+hacia abajo= 2
+desde atrás de= 2
+atrás de= 2
+a so= 2
+hasta sobre= 2
+para abajo de= 1
+enfrente de= 1
+hasta por encima de= 1
+a en= 1
+para atrás de= 1
+hasta abajo de= 1
+desde arriba de= 1
+hasta por= 1
+para delante= 1
+hasta arriba= 1
+de abajo= 1
+hasta bajo= 1
+desde afuera de= 1
+por contra= 1
+de arriba de= 1
+por encima= 1
+a contra= 1
+hasta adentro= 1
+de adentro de= 1
+por adentro de= 1
+por FN de arriba de= 1
+hasta so= 1
+de FN de atrás de= 1
+para so= 1
+de FN de arriba de= 1
+a FN por debajo de= 1
+de por bajo= 1
+hacia FN de atrás de= 1
+sobre FN de atrás de= 1
+desde so= 1
+por tras de= 1
+hacia adentro de= 1
+a sobre= 1
+hasta por debajo de= 1
+por en= 1
+de encima de= 1
+debajo= 1
+hasta ante= 1
+a arriba de= 1
+de debajo de= 1
+de adentro= 1
+de por aquí= 1
+por atrás= 1
+por debajo= 1
+desde por encima de= 1
+para tras= 1
+hasta FN de atrás de= 1
+por adentro= 1
+por cerca de= 1

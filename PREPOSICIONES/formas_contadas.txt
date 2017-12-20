@@ -1,0 +1,1 @@
+[(u'adv', 57), (u'pp+adv+pp', 529), (u'pp+pp', 509), (u'pp+FN+pp+FN+pp+FN', 1), (u'pp+pp+adv+pp', 1), (u'FN+pp+adv+pp', 2), (u'pp+FN+pp+adv+pp+FN', 11), (u'adv+pp', 48), (u'pp+pp+pp', 5), (u'pp+adv', 54)]
