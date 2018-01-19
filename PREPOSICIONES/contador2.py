@@ -133,7 +133,7 @@ print u'\n', u'Observaciones totales:', i, u'\n', u'CONSTRUCCIONES TOTALES:', le
 #_________________________________________Aqui termina el diccionario de formas con cuneta y ejemplos.
 #"""
 
-#"""
+"""
 #AQUI INICIA OTRO EXPERIMENTO
 ###Este funciona para contar cada una de las veces que aparecio una forma
 for i,f in enumerate(fila_com):
@@ -160,3 +160,38 @@ for clave, valor in formas.iteritems():
 #______________________________________________________Aqui termina el contador fino
 #"""
 
+#AQUÏ OTRO EXPERIMENTO
+
+for i,f in enumerate(fila_com):
+	if i<1: #Para que no analice la fila 0, es decir, el ENCABEZADO
+		continue #continue salta a la siguiente fila
+	#Divide columnas en una nueva lista
+	columna = f.split(u"¬")
+
+
+#Aqui lleno formas
+	for col,contenido in enumerate(columna):
+		if col>0 :continue 
+		if contenido not in formas.keys():
+			formas[contenido]=[columna[1]]
+		else: 
+			formas[contenido].append(columna[1])
+		if contenido not in formasres.keys():
+			formasres[contenido]=[columna[1]]
+			ejemplos[contenido]= [[columna[1]],[columna[2]]]
+			caja.append([[columna[0]],[columna[1]],[columna[2]]])
+		elif columna[1] not in formasres[contenido]:
+			formasres[contenido].append(columna[1])
+			ejemplos[contenido].append([[columna[1]],[columna[2]]])
+			caja.append([[columna[0]],[columna[1]],[columna[2]]])
+
+for clave, valor in formas.iteritems(): 
+	cajitas = collections.Counter(valor).items()
+	totales = sorted(cajitas,key=lambda i: i[1], reverse=True)
+	print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
+	print u'\n', u'CONSTRUCCIÓN:', clave, ':', u'Variantes:', len(totales), u'Observaciones:', len(valor)
+	for c in totales:
+		for y in c:
+			for l, m in enumerate(caja):
+				if y in m[1]:
+					print u''.join(m[2])
